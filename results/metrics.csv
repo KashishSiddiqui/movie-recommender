@@ -1,0 +1,4 @@
+Model,RMSE,MAE,Precision@10,Recall@10
+Item Mean Baseline,0.9801,0.7832,0.767,0.3386
+Bias Baseline,0.9093,0.7169,0.7066,0.3366
+SVD (own implementation),0.8614,0.6774,0.7522,0.3502
